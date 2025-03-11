@@ -1,5 +1,6 @@
 <h1>Iris Dataset</h1>
-<h1>Aprendizado de máquina por agrupamento - Módulo 25 - Ebac </h1>
+<h1>Aprendizado de máquina por agrupamento</h1>
+<h1> Módulo 25 - Ebac </h1>
 
 > **Nota:**
 > A apresentação do Readme.md referente a este projeto ainda esta em fase de desenvolvimento, em breve terá novas atualizações...
