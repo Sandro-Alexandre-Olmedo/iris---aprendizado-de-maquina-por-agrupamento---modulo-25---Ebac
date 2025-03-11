@@ -1,10 +1,6 @@
 <h1>Iris Dataset</h1>
 <h1>Aprendizado de máquina por agrupamento</h1>
 <h1> Módulo 25 - Ebac</h1>
-![Static Badge](https://ebaconline.com.br/_nuxt/d58908d198123d3c50c18638f58abb26.svg)
-
-
-
 > **Nota:**
 > A apresentação do Readme.md referente a este projeto ainda esta em fase de desenvolvimento, em breve terá novas atualizações...
 
